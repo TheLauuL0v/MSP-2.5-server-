@@ -1,0 +1,298 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595745053 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi20WAAAAAQAAAAEAAAAAAAAAAMN_jYRhZk1zdme6kzhUeEtC3GrdmYoK2tWMb9r9uteb
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595748173 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi20WAAAAAQAAAAEAAAAAAAAAAMN_jYRhZk1zdme6kzhUeEtC3GrdmYoK2tWMb9r9uteb
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595763269 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi7RMAAAAAQAAAAEAAAAAAAAAALHWXOo3VlqYQsp3FS8lVQ-d44FK_QaQM9pnOFiVVgkt
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595766397 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi7RMAAAAAQAAAAEAAAAAAAAAALHWXOo3VlqYQsp3FS8lVQ-d44FK_QaQM9pnOFiVVgkt
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595781497 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi_t4AAAAAQAAAAEAAAAAAAAAAF7-TvtNm11XdVkEgEYgVBd46ewqQe4ZTCMoCqxuF3u5
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595784621 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi_t4AAAAAQAAAAEAAAAAAAAAAF7-TvtNm11XdVkEgEYgVBd46ewqQe4ZTCMoCqxuF3u5
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595787691 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvi_t4AAAAAQAAAAEAAAAAAAAAAF7-TvtNm11XdVkEgEYgVBd46ewqQe4ZTCMoCqxuF3u5
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595802773 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjE6pAAAAAQAAAAEAAAAAAAAAAMzFCjK7bMXD4hHRwc-8T3-u8LiI2vMH-vHUngFBJryt
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595805921 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjE6pAAAAAQAAAAEAAAAAAAAAAMzFCjK7bMXD4hHRwc-8T3-u8LiI2vMH-vHUngFBJryt
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595821013 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjJXPAAAAAQAAAAEAAAAAAAAAACGiLrJKctmOndZJoNGKwWtrhaiLZC4HiTZZbQrhGIQg
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595836156 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjND1AAAAAQAAAAEAAAAAAAAAAHNvCfKuPHVXgiwPA3m-4h8Mrxklqq3ANVSQkmWFEr1P
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595839262 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjND1AAAAAQAAAAEAAAAAAAAAAHNvCfKuPHVXgiwPA3m-4h8Mrxklqq3ANVSQkmWFEr1P
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595854346 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjRgPAAAAAQAAAAEAAAAAAAAAAAEs-Ocajp7FuOZCJTmLtnu0Muqs6C17UWozKSZ0P7fi
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595869497 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjVMuAAAAAQAAAAEAAAAAAAAAAFux9jJY5yEb-kxwO8lTq6DyXi89nGtEBpu0Fom350gv
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595872613 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjVMuAAAAAQAAAAEAAAAAAAAAAFux9jJY5yEb-kxwO8lTq6DyXi89nGtEBpu0Fom350gv
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595887720 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjZpbAAAAAQAAAAEAAAAAAAAAAIZ6T77fL7ddO0J3uPQDGo42zWjR0Fy2rHm-zNRqsXXy
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595902846 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjdV9AAAAAQAAAAEAAAAAAAAAACObMZfQ31-I-T9DkK90a4vaIzXMQ2SzSyKCIektF4zk
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595905965 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjdV9AAAAAQAAAAEAAAAAAAAAACObMZfQ31-I-T9DkK90a4vaIzXMQ2SzSyKCIektF4zk
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595921064 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjhykAAAAAQAAAAEAAAAAAAAAAIT3_2Tj6yzO4YtRiEXpKbCDX_iy06EKIjSOOfvaYagU
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595924187 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjhykAAAAAQAAAAEAAAAAAAAAAIT3_2Tj6yzO4YtRiEXpKbCDX_iy06EKIjSOOfvaYagU
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595939294 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjmPYAAAAAQAAAAEAAAAAAAAAADTZNWW65H9WF7Rc2Hv1PsoMh0K2zM0dz3i-hontolV9
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595942419 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjmPYAAAAAQAAAAEAAAAAAAAAADTZNWW65H9WF7Rc2Hv1PsoMh0K2zM0dz3i-hontolV9
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595957523 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjqsUAAAAAQAAAAEAAAAAAAAAADFCGr80gJOFgVDtwZ2XE1giL30i8nL5REWL2fnXkW2i
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595960663 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjqsUAAAAAQAAAAEAAAAAAAAAADFCGr80gJOFgVDtwZ2XE1giL30i8nL5REWL2fnXkW2i
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595963721 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjqsUAAAAAQAAAAEAAAAAAAAAADFCGr80gJOFgVDtwZ2XE1giL30i8nL5REWL2fnXkW2i
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595966778 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjqsUAAAAAQAAAAEAAAAAAAAAADFCGr80gJOFgVDtwZ2XE1giL30i8nL5REWL2fnXkW2i
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595969836 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjqsUAAAAAQAAAAEAAAAAAAAAADFCGr80gJOFgVDtwZ2XE1giL30i8nL5REWL2fnXkW2i
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595972910 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjucgAAAAAQAAAAEAAAAAAAAAANRCMrrVlqPpPA4QfvEk53Go-56hRackrfLsROlwXcsC
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595976016 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjucgAAAAAQAAAAEAAAAAAAAAANRCMrrVlqPpPA4QfvEk53Go-56hRackrfLsROlwXcsC
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730595991099 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjy4uAAAAAQAAAAEAAAAAAAAAAJFPG6Ox57eIouddJDf3hzdCzMK6cy-_dj9fU_boi5u-
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595994209 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjy4uAAAAAQAAAAEAAAAAAAAAAJFPG6Ox57eIouddJDf3hzdCzMK6cy-_dj9fU_boi5u-
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730595997293 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjy4uAAAAAQAAAAEAAAAAAAAAAJFPG6Ox57eIouddJDf3hzdCzMK6cy-_dj9fU_boi5u-
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596000353 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjy4uAAAAAQAAAAEAAAAAAAAAAJFPG6Ox57eIouddJDf3hzdCzMK6cy-_dj9fU_boi5u-
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596003422 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvjy4uAAAAAQAAAAEAAAAAAAAAAJFPG6Ox57eIouddJDf3hzdCzMK6cy-_dj9fU_boi5u-
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596006495 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj2pZAAAAAQAAAAEAAAAAAAAAAAnuchoAdi78QIh03XTtR6AU0jhZmFWyvFFRub--MDMV
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596009621 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj2pZAAAAAQAAAAEAAAAAAAAAAAnuchoAdi78QIh03XTtR6AU0jhZmFWyvFFRub--MDMV
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730596024707 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj7F5AAAAAQAAAAEAAAAAAAAAAKd7gMHxfx0wYUCCvzqpfBU2ueaRxvNv_c5A5Uyw_PB0
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596027830 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj7F5AAAAAQAAAAEAAAAAAAAAAKd7gMHxfx0wYUCCvzqpfBU2ueaRxvNv_c5A5Uyw_PB0
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596030888 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj7F5AAAAAQAAAAEAAAAAAAAAAKd7gMHxfx0wYUCCvzqpfBU2ueaRxvNv_c5A5Uyw_PB0
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596033952 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj7F5AAAAAQAAAAEAAAAAAAAAAKd7gMHxfx0wYUCCvzqpfBU2ueaRxvNv_c5A5Uyw_PB0
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730596037013 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1BOwAAAZLvj7F5AAAAAQAAAAEAAAAAAAAAAKd7gMHxfx0wYUCCvzqpfBU2ueaRxvNv_c5A5Uyw_PB0
+
+TUNNELS
+mon-conversation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
